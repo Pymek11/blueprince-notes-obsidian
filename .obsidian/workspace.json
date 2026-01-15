@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "e46225dd07716892",
+    "type": "split",
+    "children": [
+      {
+        "id": "5975d7047dd346cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc31d0c7307fa8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheBluePrince/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38e270bf5035b65c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb467fd152c8b853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735aaa170215aff0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "305bbf471480840d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1cf995bd0f9a1a0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af9ffdd8749c3fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2da70cd10b7a12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215f3e0198755b22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TheBluePrince/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "ecf38a3d1c2718c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TheBluePrince/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "d61069f8fdc9b771",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8df94a328baf1b42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4cc21ee966e11813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TheBluePrince/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bc31d0c7307fa8d6",
+  "lastOpenFiles": [
+    "TheBluePrince/Map.md",
+    "TheBluePrince/HSS.md",
+    "NOTES/Notes.md",
+    "Passwords/Terminal Password.md",
+    "Passwords/Fuse box.md",
+    "Music notes/notes.md",
+    "Photos/Pasted image 20260115104229.png",
+    "CHESS/map chess pieces.md",
+    "TheBluePrince/Untitled.md",
+    "Pasted image 20260115112552.png",
+    "Photos/Pasted image 20260115112239.png",
+    "Photos/Pasted image 20260115112315.png",
+    "Photos/Pasted image 20260115110136.png",
+    "Photos/Pasted image 20260115110130.png",
+    "Photos/Pasted image 20260115110125.png",
+    "Photos/Pasted image 20260115110118.png",
+    "Photos/Pasted image 20260115105422.png",
+    "Photos/Pasted image 20260115103909.png",
+    "Music notes",
+    "Untitled.md",
+    "NOTES",
+    "Passwords",
+    "CHESS",
+    "Photos",
+    "TheBluePrince",
+    "Welcome.md"
+  ]
+}

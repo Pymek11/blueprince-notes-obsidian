@@ -1,0 +1,3 @@
+A3 - PAWN
+A2 - PAWN
+E2 - KNIGHT
