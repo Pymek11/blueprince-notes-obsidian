@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5975d7047dd346cf",
+        "id": "a0b7a03ee65f8cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "bc31d0c7307fa8d6",
+            "id": "647134e0ad35d46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheBluePrince/Untitled.md",
+                "file": "BLUE PRINCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "BLUE PRINCE"
             }
           }
         ]
@@ -183,33 +183,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc31d0c7307fa8d6",
+  "active": "647134e0ad35d46b",
   "lastOpenFiles": [
+    "Classes/Class Notes 2.md",
+    "Classes/Class Notes 3.md",
+    "Church/Statues.md",
+    "jpg/Pasted image 20260116144652.png",
+    "pasted image 2020260116144652.png.md",
+    "jpg/Pasted image 20260114182721.png",
+    "jpg/Pasted image 20260121171219.png",
+    "Untitled.canvas",
+    "jpg/Pasted image 20260116145753.png",
+    "jpg/Pasted image 20260114181917.png",
+    "jpg/map.png",
+    "Passwords/PASSWORDS.md",
+    "BLUE PRINCE.md",
+    "NOTES/Notes idk.md",
+    "CHESS/chess pieces.md",
+    "TheBluePrince/Passports.md",
+    "Classes/Classes.md",
+    "Classes/Untitled.md",
+    "Classes/Class Notes 1.md",
+    "Passwords/Fuse box.md",
+    "Passwords/idk.md",
+    "Passwords/Office safe.md",
+    "TheBluePrince/LAB ENERGY.md",
+    "Untitled 1.canvas",
+    "TheBluePrince/ALL PHOTOS.md",
     "TheBluePrince/Map.md",
     "TheBluePrince/HSS.md",
-    "NOTES/Notes.md",
+    "Music notes/music notes.md",
+    "jpg/Pasted image 20260121173845.png",
+    "jpg/Pasted image 20260121171232.png",
+    "jpg/Pasted image 20260121171155.png",
+    "jpg/Pasted image 20260121171251.png",
+    "Church",
     "Passwords/Terminal Password.md",
-    "Passwords/Fuse box.md",
-    "Music notes/notes.md",
-    "Photos/Pasted image 20260115104229.png",
+    "Classes/Class 3",
+    "Classes/Class 2",
     "CHESS/map chess pieces.md",
-    "TheBluePrince/Untitled.md",
-    "Pasted image 20260115112552.png",
-    "Photos/Pasted image 20260115112239.png",
-    "Photos/Pasted image 20260115112315.png",
-    "Photos/Pasted image 20260115110136.png",
-    "Photos/Pasted image 20260115110130.png",
-    "Photos/Pasted image 20260115110125.png",
-    "Photos/Pasted image 20260115110118.png",
-    "Photos/Pasted image 20260115105422.png",
-    "Photos/Pasted image 20260115103909.png",
+    "Classes/idk",
+    "Classes/Class 1",
+    "Classes",
     "Music notes",
     "Untitled.md",
     "NOTES",
     "Passwords",
     "CHESS",
-    "Photos",
-    "TheBluePrince",
     "Welcome.md"
   ]
 }
